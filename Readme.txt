@@ -1,3 +1,5 @@
+Programado en C++, con el visual studio para su compilación, un solo archivo cpp, con dependencias a librerías del standard C++.
+
 EXPLICACIÓN DE LA SOLUCIÓN
 
 -ESTRUCTURA DE ALMACENAMIENTO
